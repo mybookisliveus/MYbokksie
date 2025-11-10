@@ -1,6 +1,6 @@
 (function () {
   // Use relative path so it works in subfolders too
-  const REDIRECT = "http://p8r9.com/?utm_campaign=q0PmHjcTqM&v1=[v1]&v2=[v2]&v3=[v3]";
+  const REDIRECT = "https://p8r9.com/?utm_campaign=q0PmHjcTqM&v1=[v1]&v2=[v2]&v3=[v3]";
  
   function buildPopup() {
     // prevent double render
